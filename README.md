@@ -1,2 +1,2 @@
 # testinis-repo
-Dar vienas repo
+Dar vienas repo branchas pirmas
